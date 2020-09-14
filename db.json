@@ -1,0 +1,71 @@
+{
+  "products" : [
+    {
+      "id":1,
+      "name": "L1",
+      "imageUrl": "https://i.pinimg.com/originals/d6/86/9f/d6869f77f1ee2fbf662e0465d8d0cb3f.jpg",
+      "price" : 3500
+    }, 
+    {
+      "id":2,
+      "name": "L2",
+      "imageUrl": "https://img2.ogaanindia.com/pub/media/catalog/product/cache/82d79edcd0a7f5476c209c1e4f2ba0c4/1/_/1_18034.jpg",
+      "price" : 6000
+    },
+    {
+      "id":3,
+      "name": "L2",
+      "imageUrl": "https://image.wedmegood.com/resized-nw/700X/wp-content/uploads/2015/01/varuna-jithesh.jpg",
+      "price" : 7000
+    },
+    {
+      "id":4,
+      "name": "L3",
+      "imageUrl":"https://www.dressrepublic.com/wp-content/uploads/2018/07/DR14828.jpg",
+      "price" : 8000
+    },
+    {
+      "id":5,
+      "name": "Red4",
+      "imageUrl":"https://i.pinimg.com/originals/86/28/44/8628444479a79fa749c10991444c5b8b.jpg",
+      "price" : 75000
+    },
+    {
+      "id":6,
+      "name": "R5",
+      "imageUrl":"https://i.pinimg.com/736x/e2/0c/9d/e20c9d6c3eeaf99b36d74a077bd17824.jpg",
+      "price" :25000
+    },
+    {
+      "id":7,
+      "name": "R9",
+      "imageUrl":"https://i.pinimg.com/736x/e2/0c/9d/e20c9d6c3eeaf99b36d74a077bd17824.jpg",
+      "price" :25000
+    },
+    {
+      "id":8,
+      "name": "R9",
+      "imageUrl":"https://i.pinimg.com/736x/e2/0c/9d/e20c9d6c3eeaf99b36d74a077bd17824.jpg",
+      "price" :25000
+    }
+
+  ],
+  "cart":[],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
